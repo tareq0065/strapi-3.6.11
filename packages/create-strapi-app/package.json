@@ -1,5 +1,5 @@
 {
-  "name": "create-strapi-app",
+  "name": "create-strapi-app3",
   "version": "3.6.11",
   "description": "Generate a new Strapi application.",
   "license": "SEE LICENSE IN LICENSE",
@@ -13,7 +13,7 @@
   ],
   "main": "./index.js",
   "bin": {
-    "create-strapi-app": "./index.js"
+    "create-strapi-app3": "./index.js"
   },
   "dependencies": {
     "chalk": "5.3.0",
