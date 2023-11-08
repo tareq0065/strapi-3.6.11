@@ -1,4 +1,4 @@
 #!/usr/bin/env node
 'use strict';
 
-require('./create-strapi-app');
+require('./create-strapi-app3');
