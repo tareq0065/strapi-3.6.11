@@ -1,0 +1,52 @@
+{
+  "name": "create-strapi-starter",
+  "version": "3.6.11",
+  "description": "Generate a new Strapi application.",
+  "license": "SEE LICENSE IN LICENSE",
+  "homepage": "https://strapi.io",
+  "keywords": [
+    "create-strapi-starter",
+    "create",
+    "new",
+    "generate",
+    "strapi"
+  ],
+  "main": "./index.js",
+  "bin": {
+    "create-strapi-starter": "./index.js"
+  },
+  "dependencies": {
+    "chalk": "5.3.0",
+    "ci-info": "4.0.0",
+    "commander": "11.1.0",
+    "execa": "8.0.1",
+    "fs-extra": "11.1.1",
+    "git-url-parse": "13.1.1",
+    "inquirer": "9.2.11",
+    "js-yaml": "4.1.0",
+    "node-fetch": "^3.3.2",
+    "ora": "7.0.1",
+    "strapi-generate-new": "3.6.11",
+    "tar": "6.2.0"
+  },
+  "scripts": {
+    "test": "echo \"no tests yet\""
+  },
+  "author": {
+    "email": "hi@strapi.io",
+    "name": "Strapi team",
+    "url": "https://strapi.io"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/strapi/strapi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/strapi/strapi/issues"
+  },
+  "engines": {
+    "node": ">=10.16.0 <=18.x.x",
+    "npm": ">=6.0.0"
+  },
+  "gitHead": "231263a3535658bab1e9492c6aaaed8692d62a53"
+}
